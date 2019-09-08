@@ -1,4 +1,10 @@
-## Usage
+## お問い合わせ
+
+使い方がわからない、うまく動作しないなどの件お問い合わせは以下のTwitterアカウントへお問い合わせ下さい。
+
+[@sakata_halmi](https://twitter.com/sakata_halmi)
+
+※ZZ3DはFaceTrackingに対応しているiPhone（iPhoneX、XS/XS MAX/XR）にのみ対応しています。それ以外の機種の場合、顔認識がされませんのでモデルのプレビュー機能のみの動作となります。
 
 
 ## プライバシーポリシー
@@ -29,5 +35,3 @@
 
 令和元年 8月5日　策定
 
-## 連絡先
-@sakata_halmi
